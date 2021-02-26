@@ -6,16 +6,16 @@
     <RepositoryUrl></RepositoryUrl>
     <PackageTags>calabonga, microservice, base, entity, unitofwork, framework, base, entities</PackageTags>
     <PackageReleaseNotes>Net5.0 updated</PackageReleaseNotes>
-    <Version>3.0.0</Version>
+    <Version>3.0.1</Version>
     <PackageLicenseExpression>MIT OR Apache-2.0</PackageLicenseExpression>
     <Authors>Calabonga</Authors>
     <PackageIconUrl>https://www.calabonga.net/images/logo.png</PackageIconUrl>
     <Company>Calabonga SOFT</Company>
     <Copyright>Calabonga SOFT © 2019-2021</Copyright>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <AssemblyVersion>3.0.0.0</AssemblyVersion>
+    <AssemblyVersion>3.0.1.0</AssemblyVersion>
     <PackageIcon>logo.png</PackageIcon>
-    <FileVersion>3.0.0.0</FileVersion>
+    <FileVersion>3.0.1.0</FileVersion>
   </PropertyGroup>
 
   <ItemGroup>

@@ -3,7 +3,7 @@
 namespace Calabonga.EntityFrameworkCore.Entities.Base
 {
     /// <summary>
-    /// Identifier common interface
+    /// Identifier interface
     /// </summary>
     public interface IHaveId
     {
