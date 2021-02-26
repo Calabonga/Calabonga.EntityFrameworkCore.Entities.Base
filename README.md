@@ -1,0 +1,1 @@
+# Calabonga.EntityFrameworkCore.Entities.Base
